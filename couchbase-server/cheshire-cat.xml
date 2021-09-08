@@ -25,7 +25,7 @@
   <project name="forestdb" revision="43c6128f1b54fcc92bbbfaf7d6061d1a024c7050" groups="backup"/>
   <project name="geocouch" revision="3e8040787139e3c67766ce50398860c185737b8a"/>
   <project name="goxdcr"    path="goproj/src/github.com/couchbase/goxdcr" revision="cheshire-cat" groups="bsl"/>
-  <project name="gometa" revision="cheshire-cat" path="goproj/src/github.com/couchbase/gometa" groups="bsl"/>
+  <project name="gometa" revision="563cdf343321e2025b73852bcf454860a4880300" path="goproj/src/github.com/couchbase/gometa" groups="bsl"/>
   <project name="nitro" revision="cheshire-cat" path="goproj/src/github.com/couchbase/nitro"/>
   <project name="indexing" revision="cheshire-cat" path="goproj/src/github.com/couchbase/indexing" groups="bsl"/>
   <project name="plasma" revision="cheshire-cat" path="goproj/src/github.com/couchbase/plasma" remote="couchbase-priv" groups="notdefault,enterprise"/>
